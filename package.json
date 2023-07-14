@@ -1,0 +1,28 @@
+{
+  "name": "@akshay12/type-script",
+  "version": "0.0.3",
+  "description": "",
+  "main": "dist/simple-functions.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "akshay",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "ts-jest": "^29.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshaySavanoorCC/typescript"
+  },
+  "bugs": {
+    "url": "https://github.com/AkshaySavanoorCC/typescriptissues"
+  },
+  "homepage": "https://github.com/AkshaySavanoorCC/typescript#readme"
+}
